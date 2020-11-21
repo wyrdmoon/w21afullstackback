@@ -1,3 +1,4 @@
+dbcreds.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,4 +127,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
+=======
+.pyre/
+>>>>>>> 28cf733c8c08a769b1af9be75cbc1f44e2b95552
